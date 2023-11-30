@@ -1,0 +1,92 @@
+.col-lg-7 {
+	background-color: #f06b0c;
+	height: 700px;
+}
+.col-lg-5 {
+	background-color: #fff;
+}
+.A {
+	text-transform: uppercase;
+	color: white;
+	font-size: 25px;
+	padding: 40px;
+	font-weight: bold;
+	font-family: Georgia, sans-serif;
+	text-shadow: 2px 2px 3px pink;
+}
+.B {
+	color: white;
+	font-size: 60px;
+	padding: 40px;
+	font-weight: bold;
+	font-family: Georgia, sans-serif;
+	
+}
+.button {
+  width: 250px;
+  background-color: white;
+  margin-left: 40px;
+  outline: 0;
+  cursor: pointer;
+  border: none;
+  
+  color: black;
+  font-size: 16px;
+  font-family: Georgia, sans-serif;
+  text-transform: uppercase;
+  padding: 20px;
+  border-radius: 100px 100px 100px 100px / 200% 200%;
+  box-shadow: 0px 10px 15px 0px black;
+  text-shadow: 1px 1px 2px gray, 0 0 1em black;
+}
+.pic {	
+	margin-top: 140px;
+	border-radius: 30px
+}
+.col-lg-6{
+	background-color: #6b6560;
+	height: 540px;
+}
+.C {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding: 40px;
+	font-family: Georgia, sans-serif;
+}
+.pic-2 {
+	margin: 1px 100px;
+	border-radius: 15px;
+	box-shadow: 3px 3px 5px 2px #000;
+}
+.F {
+	margin-top: 150px;
+}
+.E {
+	margin-left: -100px;
+	text-align: left;
+	color: white;
+	font-size: 25px;
+	font-family: Georgia, sans-serif;
+}
+.Q {
+	font-size: 50px;
+	margin-left: 50px;
+	margin-top: -50px;
+	color: white;
+	font-family: Georgia, sans-serif;
+}
+.W {
+	color: #f06b0c;
+	margin-left: 10px;
+}
+.R{
+	margin-left: -100px;
+	margin-top: 50px;
+	color: black;
+	font-size: 10px;
+}
+.T {
+	margin-top: 120px;
+	color: white;
+}
